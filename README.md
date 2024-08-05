@@ -60,3 +60,20 @@ mindmap
                 Сотрудниками
                 Выплатами
 ```
+
+```mermaid
+
+---
+config:
+  sankey:
+    showValues: false
+---
+
+sankey-beta
+
+Electricity grid,Over generation / exports,1
+Electricity grid,Heating and cooling - homes,1
+Electricity grid,H2 conversion,1
+Electricity gridsss,H2 conversion,1
+
+```
